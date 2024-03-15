@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { HoverEffect } from "./ui/card-hover-effect";
-import { title } from "process";
 import Link from "next/link";
 
 export function UpcomingWebinar() {
